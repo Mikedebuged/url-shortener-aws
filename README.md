@@ -1,4 +1,3 @@
-# url-shortener-aws
 # URL Shortener on AWS
 
 A URL shortener API built with Python and FastAPI, which I'm taking from local code to an automated AWS deployment.
